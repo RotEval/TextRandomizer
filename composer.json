@@ -1,0 +1,17 @@
+{
+    "name": "roteval/text-randomizer",
+    "description" : "Text Randomizer is a tool that aims to automate the generation of text from data by using a template.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4" : {
+            "RotEval\\TextRandomizer\\": "src"
+        }
+    },
+    "minimum-stability" : "stable"
+}
